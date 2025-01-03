@@ -8,6 +8,7 @@ Using both hardware and software, I created my own garage door lock controlled b
 - LED is lit up when password is entered correctly
 - LCD display is used to show the numbers entered and if the password is correct or incorrect
 - Potentiometer is used to ensure that the LCD display is visible\
+![image_2024-12-30_173749533](https://github.com/user-attachments/assets/45cb10ce-e84e-406a-81ac-2f7c3c1d543e)
 
 ### Languages Used
 C++
